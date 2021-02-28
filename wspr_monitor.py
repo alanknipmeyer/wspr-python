@@ -24,7 +24,7 @@ designed to interleave between the 10 minute transmission period of a WSPR stati
 
 """
 
-# Author - Alan Knipmeyer, provided free without warrenty on the MIT license
+# Author - Alan Knipmeyer, provided free without warranty on the MIT license
 
 """
 Copyright (c) 2021, Alan Knipmeyer
