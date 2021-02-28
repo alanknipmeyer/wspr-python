@@ -24,7 +24,15 @@ designed to interleave between the 10 minute transmission period of a WSPR stati
 
 """
 
+# Author - Alan Knipmeyer, provided free without warrenty on the MIT license
 
+"""
+Copyright (c) 2021, Alan Knipmeyer
+All rights reserved.
+
+This source code is licensed under the MIT license found in the
+LICENSE file in the root directory of this source tree. 
+"""
 
 # importing the libraries
 from bs4 import BeautifulSoup
